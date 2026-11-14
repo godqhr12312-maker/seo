@@ -9,4 +9,4 @@
       (또는 GitHub에서 이 파일을 수정해도 자동 반영됩니다.)
    ============================================================ */
 
-window.TELEGRAM_ID = "MeteoSolution";
+window.TELEGRAM_ID = "taesan112";
